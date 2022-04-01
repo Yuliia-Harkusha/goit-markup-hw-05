@@ -731,4 +731,6 @@ img {
   border-radius: 50%;
   border: none;
   cursor: pointer;
+  background-image: url("/Icons/close.svg");
+  background-size: contain;
 }
